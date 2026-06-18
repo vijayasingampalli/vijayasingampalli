@@ -1,6 +1,6 @@
  # Hi 👋, I'm vijaya singampalli
 
-🎓 Final Year B.Tech Computer Science Student
+🎓 Final Year B.Tech IT Student
 
 💻 Passionate Web Developer
 
