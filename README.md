@@ -1,16 +1,58 @@
-## Hi there 👋
+ # Hi 👋, I'm vijaya singampalli
 
-<!--
-**vijayasingampalli/vijayasingampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning MERN Stack
+
+🧠 Solving DSA Problems in C++
+
+🚀 Interested in Software Development
+
+---
+
+## Skills
+
+### Programming Languages
+- C++
+- Java
+- Python
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Projects
+
+### 🎬 MovieExplorer
+Movie search application built using React and Vite.
+
+### 🤖 AI ATS Resume Screener
+Resume screening system using AI.
+
+### 🌐 Personal Portfolio
+Personal portfolio website showcasing projects and skills.
+
+---
+
+## Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/vijaya-singampalli/
+
+Email: vijayasingampalli2006@gmail.com
